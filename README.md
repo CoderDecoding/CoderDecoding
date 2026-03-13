@@ -12,8 +12,7 @@
 
 ---
 
-### 🏆 Achievements & Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoderDecoding&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 📊 GitHub Metrics & Activity
 <table>
