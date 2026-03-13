@@ -9,12 +9,11 @@
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoderDecoding&labelColor=%23263238&countColor=%23ff47da&style=flat-square)
 
 ---
-### 🐍 My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/CoderDecoding/CoderDecoding/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🏆 Achievements & Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoderDecoding&theme=radical&no-frame=false&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoderDecoding&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 GitHub Metrics & Activity
 <table>
