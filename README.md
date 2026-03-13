@@ -58,3 +58,7 @@ CoderDecoding
 GitHub: github.com/CoderDecoding
 
 Specialties: Pythonic Data Science & Low-level C++ Optimization.
+---
+### ⚖️ License
+This profile and its shared snippets are licensed under **Apache License 2.0**.
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
