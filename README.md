@@ -1,29 +1,39 @@
-# ReadMe
-MY DISCRIPTION
-# Hi there, I'm CoderDecoding 👋 
+<p align="center">
+  <img src="BANNER_LINK_HERE" alt="CoderDecoding Banner" width="100%">
+</p>
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=CoderDecoding&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <br/>
+# Hi there, I'm CoderDecoding 👋 
+**Data Scientist Engineer | Software Enthusiast**
 
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=CoderDecoding&show_icons=true&theme=radical&count_private=true" alt="CoderDecoding GitHub Stats" height="180"></td>
-      <td><img src="https://streak-stats.demolab.com/?user=CoderDecoding&theme=radical" alt="GitHub Streak" height="180"></td>
-    </tr>
-  </table>
+---
 
-  ### 🛠️ My Toolbox & Technologies
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,pycharm,js,html,cpp,mysql,react,github,git,vscode" />
-    </a>
-  </p>
+## 🐍 My Contribution Snake
+![snake gif](https://raw.githubusercontent.com/CoderDecoding/CoderDecoding/output/github-contribution-grid-snake.svg)
 
-  ### 📊 Top Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDecoding&layout=compact&theme=radical&hide=css" alt="Top Langs" height="180">
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoderDecoding&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=CoderDecoding&show_icons=true&theme=radical&count_private=true" alt="Stats" height="180"></td>
+    <td><img src="https://streak-stats.demolab.com/?user=CoderDecoding&theme=radical" alt="Streak" height="180"></td>
+  </tr>
+</table>
+
+### 🛠️ My Toolbox
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pycharm,js,html,cpp,mysql,react,github,git,vscode" />
+  </a>
+</p>
+
+### 📊 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDecoding&layout=compact&theme=radical&hide=css" alt="Top Langs" height="180">
 
 </div>
 
@@ -32,33 +42,8 @@ MY DISCRIPTION
 ### 🔭 Currently Working On
 * 🐍 Deep diving into **NumPy** for data manipulation.
 * 🏗️ Building efficient logic with **C++**.
-* 🌐 Enhancing UI/UX with **JavaScript** and **HTML**.
+* 📊 Structuring complex queries with **SQL**.
 
-
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoderDecoding&labelColor=%23d9e3f0&countColor=%23263238&style=flat)
-
-
-## 🐍 My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/CoderDecoding/CoderDecoding/output/github-contribution-grid-snake.svg)
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![License](https://img.shields.io/github/license/CoderDecoding/YourRepoName?style=for-the-badge)
-
-<div align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-Data%20Science-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-👨‍💻 Author
-CoderDecoding
-
-GitHub: github.com/CoderDecoding
-
-Specialties: Pythonic Data Science & Low-level C++ Optimization.
----
 ### ⚖️ License
-This profile and its shared snippets are licensed under **Apache License 2.0**.
+This profile is licensed under the **Apache License 2.0**.
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
