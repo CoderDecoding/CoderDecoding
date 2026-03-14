@@ -24,6 +24,12 @@
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoderDecoding&labelColor=%23263238&countColor=%23ff47da&style=flat-square)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDecoding&repo=Sentira-Core&theme=radical" />
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDecoding&theme=dracula&area=true&hide_border=true" width="100%" />
@@ -54,9 +60,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDecoding&theme=radical&bg_color=0D1117&hide_border=true&area=true" width="100%" />
-</p>
+
 
 
 ---
