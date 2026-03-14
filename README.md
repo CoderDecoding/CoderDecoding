@@ -10,7 +10,7 @@
 
 > **"Turning coffee into code, messy data into Python logic, and bugs into lessons."** ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+by+day;Professional+Googler+by+night;Mastering+Python+and+C%2B%2B;Building+Sentira-Core+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+by+day;Professional+Googler+by+night;Mastering+Python+and+SQL%2B%2B;Building+Sentira-Core+AI)](https://git.io/typing-svg)
 
 ---
 
