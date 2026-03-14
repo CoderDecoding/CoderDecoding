@@ -1,3 +1,7 @@
+<img src=<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/9a20ccbe-2f13-4531-993e-29139d8a0295" /> alt="CoderDecoding Banner" width="100%">
+
+<div align="center">
+
 
 <div align="center">
 
@@ -14,15 +18,6 @@
 `Python` • `C++` • `SQL` • `HTML` • `Machine Learning`
 
 </div>
-
-
-
-<img src=<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/9a20ccbe-2f13-4531-993e-29139d8a0295" /> alt="CoderDecoding Banner" width="100%">
-
-<div align="center">
-
-# Hi there 👋 I'm CoderDecoding
-**Data Scientist Engineer | Software Enthusiast**
 *Specializing in AI/ML, High-Performance C++, and Scalable Data Systems*
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoderDecoding&labelColor=%23263238&countColor=%23ff47da&style=flat-square)
