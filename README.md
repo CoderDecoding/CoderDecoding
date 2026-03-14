@@ -25,9 +25,10 @@
 
 ---
 
----
-![snake gif](https://raw.githubusercontent.com/CoderDecoding/CoderDecoding/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderDecoding&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDecoding&layout=compact&theme=radical" alt="Langs" />
+</p>
 
 
 
