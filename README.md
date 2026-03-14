@@ -15,7 +15,8 @@
 ---
 
 ### 💻 Tech I'm Decoding
-`Python` • `C++` • `SQL` • `HTML` • `Machine Learning`
+`Python` • `C++` • `SQL` • `HTML` •
+`Artificial Intelligence`• `Machine Learning`
 
 </div>
 *Specializing in AI/ML, High-Performance C++, and Scalable Data Systems*
