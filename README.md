@@ -3,11 +3,11 @@
 <div align="center">
 
 # Hi there 👋 I'm CoderDecoding
-### 🎓 Data Scientist Engineer in the making
+### 🎓 AI Engineer in the making
 
 > **"Turning coffee into code, messy data into Python logic, and bugs into lessons."** ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+by+day;Professional+Googler+by+night;Mastering+Python+and+SQL;Building+Sentira-Core+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+by+day;Professional+Googler+by+night;Mastering+Python+Cpp+and+SQL;Building+AN+AI+Project)](https://git.io/typing-svg)
 
 ---
 
@@ -16,7 +16,7 @@
 `Artificial Intelligence`• `Machine Learning`
 
 </div>
-Specializing in AI/ML, High-Performance C++, and Scalable Data Systems
+Specializing in AI/ML, High-Performance Python, and Scalable Data Systems
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoderDecoding&labelColor=%23263238&countColor=%23ff47da&style=flat-square)
 
