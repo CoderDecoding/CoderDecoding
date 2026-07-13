@@ -12,13 +12,11 @@
 ---
 
 ### 💻 Tech I'm Decoding
-`Python` • `PowerBi` • `SQL` • `C++` •
+`Python` • `PowerBi` • `SQL` • `HTML` •
 `Artificial Intelligence`• `Machine Learning`
 
 </div>
-Specializing in AI/ML, High-Performance Python, and Scalable Data Systems
-
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoderDecoding&labelColor=%23263238&countColor=%23ff47da&style=flat-square)
+Specializing in AI/ML, High-Performance Python, and Coomplex GenAI & LLM tools
 
 
 
