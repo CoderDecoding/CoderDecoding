@@ -7,7 +7,7 @@
 
 > **"Turning coffee into code, messy data into Python logic, and bugs into lessons."** ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+by+day;Professional+Googler+by+night;Mastering+Python+Cpp+and+SQL;Building+AN+AI+Project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+by+day;Professional+Googler+by+night;Mastering+Python+html+and+SQL;Building+AN+AI+Project)](https://git.io/typing-svg)
 
 ---
 
@@ -33,8 +33,7 @@ Specializing in AI/ML, High-Performance Python, and Coomplex GenAI & LLM tools
 </p>
 
 
-### 📊 GitHub Metrics & Activity
-<table>
+
  
   <img src="https://github-readme-stats.vercel.app/api?username=CoderDecoding&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDecoding&layout=compact&theme=radical" alt="Langs" />
