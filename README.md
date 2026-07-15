@@ -16,7 +16,7 @@
 `Artificial Intelligence`• `Machine Learning`
 
 </div>
-Specializing in AI/ML, High-Performance Python, and Coomplex GenAI & LLM tools
+Specializing in AI/ML, High-Performance Python, and Complex GenAI & LLM tools
 
 
 
