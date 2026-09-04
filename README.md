@@ -24,7 +24,7 @@ Specializing in Web Dev,and Complex GenAI , API & LLM tools
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoderDecoding)](https://git.io/streak-stats)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CoderDecoding&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDecoding&theme=radical&area=true&hide_border=true" width="100%" />
