@@ -3,20 +3,20 @@
 <div align="center">
 
 # Hi there 👋 I'm CoderDecoding
-### 🎓 AI Engineer in the making
+### 🎓Web Developer in the making
 
-> **"Turning coffee into code, messy data into Python logic, and bugs into lessons."** ✨
+> **"Turning coffee into code, messy data into JavaScript logic, and bugs into lessons."** ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+by+day;Professional+Googler+by+night;Mastering+Python,+html,+and+SQL;Building+AN+AI+Project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+by+day;Professional+Googler+by+night;Mastering,+html,+css,+javascript,+and+SQL;Building+A+WebDev+Project)](https://git.io/typing-svg)
 
 ---
 
 ### 💻 Tech I'm Decoding
-`Python` • `PowerBi` • `SQL` • `HTML` •
-`Artificial Intelligence`• `Machine Learning`
+`HTML` • `CSS` • `JAVASCRIPT` • `API` •`SQL` •
+`Artificial Intelligence`
 
 </div>
-Specializing in AI/ML, High-Performance Python, and Complex GenAI & LLM tools
+Specializing in Web Dev,and Complex GenAI , API & LLM tools
 
 
 
@@ -48,7 +48,7 @@ Specializing in AI/ML, High-Performance Python, and Complex GenAI & LLM tools
 ### 🛠️ AI/ML & Engineering Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pycharm,cpp,mysql,numpy,sklearn,pytorch,tensorflow,js,html,git,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,js,html,git,css,vscode" />
   </a>
 </p>
 
@@ -58,9 +58,11 @@ Specializing in AI/ML, High-Performance Python, and Complex GenAI & LLM tools
 ---
 
 ### 🔬 Research & Development
-* 🤖 **AI/ML:** Building predictive models using **Scikit-Learn** and **PyTorch**.
-* ⚡ **Optimization:** Using **C++** to speed up **NumPy** data processing.
-* 🗄️ **Data:** Designing efficient **SQL** schemas for big data storage.
+**🎨 Frontend*: Building responsive and interactive user interfaces using **React** and **Tailwind CSS**.
+
+**⚡ Performance*: Optimizing web applications and state management with **TypeScript** and **Next.js**.
+
+**🗄️ Backend & Databases*: Designing **REST APIs** and managing **Node.js** services with **PostgreSQL / MongoDB**.
 
 ### ⚖️ License
 Licensed under the **Apache License 2.0**.
