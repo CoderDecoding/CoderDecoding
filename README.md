@@ -23,14 +23,12 @@ Specializing in Web Dev,and Complex GenAI , API & LLM tools
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDecoding&theme=dracula&area=true&hide_border=true" width="100%" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoderDecoding)](https://git.io/streak-stats)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDecoding&theme=radical&area=true&hide_border=true" width="100%" />
-</p>
+</p> -->
 
 
 
